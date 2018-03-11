@@ -1,0 +1,1 @@
+require 'ares/rails'
